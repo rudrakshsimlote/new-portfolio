@@ -1,4 +1,4 @@
-Sure! Here is a README for your portfolio project:
+
 
 ```markdown
 # Rudraksh Simlote's Portfolio

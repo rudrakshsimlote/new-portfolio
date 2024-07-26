@@ -1,0 +1,18 @@
+footer {
+    background-color: #1a1a1d;
+    color: #fff;
+  }
+  
+  footer a {
+    color: #ff014f;
+    transition: color 0.3s;
+  }
+  
+  footer a:hover {
+    color: #e60039;
+  }
+  
+  footer p {
+    font-family: 'Poppins', sans-serif;
+  }
+  

@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@300;400;700&display=swap');
+
+/* Skills Component Styling */
+
+section#skills {
+  background-color: #1a1a1d;
+  color: #fff;
+}
+
+.skills-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff014f;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.skills-description {
+  font-family: 'Poppins', sans-serif;
+}
+
+.skills-category {
+  font-family: 'Poppins', sans-serif;
+  color: #ff014f;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.gap-4 {
+  gap: 1rem;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.bg-gray-800 {
+  background-color: #2e2e33;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.shadow-lg {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+/* Skill Icons Styling */
+.skill-icon {
+  font-size: 2rem;
+}
+
+.skill-icon.java-icon { color: #007396; }
+.skill-icon.python-icon { color: #306998; }
+.skill-icon.angular-icon { color: #dd1b16; }
+.skill-icon.postgresql-icon { color: #336791; }
+.skill-icon.js-icon { color: #f7df1e; }
+.skill-icon.html-icon { color: #e34f26; }
+.skill-icon.css-icon { color: #1572b6; }
+.skill-icon.c-icon { color: #00599c; }
+.skill-icon.r-icon { color: #276dc3; }
+.skill-icon.react-icon { color: #61dafb; }
+.skill-icon.nodejs-icon { color: #68a063; }
+.skill-icon.spring-icon { color: #6db33f; }
+.skill-icon.git-icon { color: #f34f29; }
+.skill-icon.docker-icon { color: #2496ed; }
+.skill-icon.vscode-icon { color: #0078d7; }
+.skill-icon.pycharm-icon { color: #21d789; }
+.skill-icon.intellij-icon { color: #000000; }
+.skill-icon.eclipse-icon { color: #2c2255; }
+.skill-icon.wordpress-icon { color: #21759b; }
+.skill-icon.androidstudio-icon { color: #3ddc84; }
+.skill-icon.numpy-icon { color: #013243; }
+.skill-icon.tensorflow-icon { color: #ff6f00; }
+.skill-icon.opencv-icon { color: #5c3ee8; }
+.skill-icon.pandas-icon { color: #150458; }

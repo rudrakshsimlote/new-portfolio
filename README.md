@@ -1,74 +1,99 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+```markdown
+# Rudraksh Simlote's Portfolio
 
-In the project directory, you can run:
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a computer science student and aspiring software engineer.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+- [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About
 
-### `npm test`
+I’m a computer science student and aspiring software engineer, specializing in software development and engineering. I enjoy creating innovative and efficient software solutions that enhance user experiences and streamline complex processes. With experience in a variety of programming languages and frameworks, I leverage my technical skills to develop applications that are both functional and engaging. I am a dedicated learner, continually seeking to expand my knowledge and expertise in the field. I thrive on collaborating with others and tackling challenging projects that push the boundaries of technology.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- **Responsive Design:** Works on all devices, including mobile, tablet, and desktop.
+- **Projects Carousel:** Displays my projects in an interactive and engaging manner.
+- **Skills Section:** Highlights my technical skills and proficiencies.
+- **Contact Form:** Allows visitors to get in touch with me easily.
+- **Downloadable Resume:** Provides a link to download my resume.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **ReactJS:** Frontend library for building user interfaces.
+- **TailwindCSS:** Utility-first CSS framework for styling.
+- **Framer Motion:** Animation library for React.
+- **React Slick:** Carousel component for displaying projects.
+- **React Scroll:** Smooth scrolling functionality for navigation.
+- **EmailJS:** Service for sending emails from the contact form.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Setup
 
-### `npm run eject`
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/rudrakshsimlote/new-portfolio.git
+   cd new-portfolio
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. **Run the development server:**
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. **Build the project for production:**
+   ```bash
+   npm run build
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Usage
 
-## Learn More
+- **Visit the Home Page:** View the welcome message and a brief introduction.
+- **Explore Projects:** Browse through my projects in the carousel.
+- **Check Skills:** See the technologies and tools I am proficient in.
+- **Contact Me:** Use the contact form to send me a message.
+- **Download Resume:** Click on the "Resume" link in the navigation bar to download my resume.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Projects
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Here are some of the projects showcased on my portfolio:
 
-### Code Splitting
+1. **Project Name 1:** Description of the project and its key features.
+2. **Project Name 2:** Description of the project and its key features.
+3. **Project Name 3:** Description of the project and its key features.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Skills
 
-### Analyzing the Bundle Size
+- **Programming Languages:** Java, Python, Angular, PostgreSQL, JavaScript, HTML/CSS, C, R
+- **Frameworks:** React, Node.js, Spring
+- **Developer Tools:** Git, Docker, Visual Studio Code, PyCharm, IntelliJ, Eclipse, WordPress, Android Studio
+- **Libraries:** NumPy, TensorFlow, OpenCV, Pandas
+- **Languages:** English, Hindi, Spanish
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact
 
-### Making a Progressive Web App
+Feel free to reach out to me through the contact form on my website or connect with me on social media:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [GitHub](https://github.com/rudrakshsimlote)
+- [LinkedIn](https://www.linkedin.com/in/rudrakshsimlote/)
+- [Instagram](https://www.instagram.com/rudrakshsimlote/)
 
-### Advanced Configuration
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# new-portfolio
->>>>>>> ae824250434d0bf30cd94ad28a9cc2471a2ad936
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+```

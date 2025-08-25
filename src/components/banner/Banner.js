@@ -7,7 +7,7 @@ import codingGif from '../../assets/coding.gif'; // Update with the correct path
 
 const Banner = () => {
   const [text] = useTypewriter({
-    words: ["Computer Science Student.", "Aspiring Software Engineer.", "Headstarter Fellow."],
+    words: ["Computer Science Student.", "Data Science Student.", "Aspiring Software/AI Engineer."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -49,7 +49,7 @@ const Banner = () => {
             <Cursor cursorBlinking="false" cursorStyle="|" cursorColor="#ff014f" />
           </h2>
           <p className="text-base font-semibold leading-6 tracking-wide">
-          I’m a computer science and data science student and aspiring software engineer, specializing in software development and engineering. I enjoy creating innovative and efficient software solutions that enhance user experiences and streamline complex processes. With experience in a variety of programming languages and frameworks, I leverage my technical skills to develop applications that are both functional and engaging. I am a dedicated learner, continually seeking to expand my knowledge and expertise in the field. I thrive on collaborating with others and tackling challenging projects that push the boundaries of technology.
+          Hi, I’m Rudraksh Simlote. A computer science and data science student at Rutgers University with a real passion for building software that makes a difference. Over the past few years, I’ve worked as a developer intern, research assistant, and team lead, tackling everything from AI-powered resume tools to web apps that help people learn and stay organized. I love working with technologies like Python, JavaScript, React, and Next.js, and I’m always eager to pick up something new. Whether I’m collaborating with others, mentoring students, or diving into a challenging project, I enjoy finding creative solutions and making technology work for people. I’m excited to keep learning, growing, and contributing wherever I can.
           </p>
         </div>
         <div className="flex gap-20">

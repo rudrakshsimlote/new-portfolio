@@ -28,6 +28,16 @@ const Navbar = () => {
               </li>
             ))
           }
+          <li>
+            <a
+              href={resume}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300 border px-4 py-2 rounded"
+            >
+              Resume
+            </a>
+          </li>
         </ul>
       </div>
     </div>
